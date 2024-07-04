@@ -5,7 +5,7 @@ accountCity = "Jaipur"
 let accountState;
 
 
-// accountId = 2 // not allowed
+// accountId = 2 // changing value not allowed in constant variables
 
 
 accountEmail = "hc@hc.com"
