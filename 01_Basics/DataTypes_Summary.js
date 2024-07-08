@@ -1,3 +1,5 @@
+// JAVASCRIPT IS A DYNAMICALLY TYPED LANGUAGE
+
 //  Primitive Data Types: 
 
 //  7 data : String, Number, Boolearn, null, undefined, Symbol, BigInt
@@ -35,3 +37,29 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+/*
+Return type of variables in JavaScript
+1) Primitive Datatypes
+       Number => number
+       String  => string
+       Boolean  => boolean
+       null  => object
+       undefined  =>  undefined
+       Symbol  =>  symbol
+       BigInt  =>  bigint
+
+2) Non-primitive Datatypes
+       Arrays  =>  object
+       Function  =>  function
+       Object  =>  object
+
+*/
+
+
+/*
+MEMORY ALOOCATONS IN JAVASCRIPT
+
+Stack => Primitive data types, Heap => Non Primitive data types
+
+*/
