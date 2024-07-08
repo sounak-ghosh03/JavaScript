@@ -39,6 +39,7 @@ console.log(typeof anotherId);
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 
 /*
+
 Return type of variables in JavaScript
 1) Primitive Datatypes
        Number => number
@@ -54,10 +55,7 @@ Return type of variables in JavaScript
        Function  =>  function
        Object  =>  object
 
-*/
 
-
-/*
 MEMORY ALOOCATONS IN JAVASCRIPT
 
 Stack => Primitive data types, Heap => Non Primitive data types
