@@ -34,6 +34,7 @@ function loginUserMessage(username = "sam") {
 // console.log(loginUserMessage("hitesh"));
 
 function calculateCartPrice(val1, val2, ...num1) {
+  //... => is called rest/spread operator
   return num1; // Returns an array containing all additional arguments passed
 }
 
