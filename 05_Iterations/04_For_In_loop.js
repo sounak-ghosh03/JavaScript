@@ -1,4 +1,3 @@
-
 // const myObject = {
 //     game1: 'NFS',
 //     game2: 'Spiderman'
@@ -6,24 +5,24 @@
 
 // for (const [key, value] of myObject) {
 //     console.log(key, ':-', value);
-    
+
 // }
 
 const myObject = {
-    js: 'javascript',
-    cpp: 'C++',
-    rb: "ruby",
-    swift: "swift by apple"
-}
+  js: "javascript",
+  cpp: "C++",
+  rb: "ruby",
+  swift: "swift by apple",
+};
 
 for (const key in myObject) {
-    //console.log(`${key} shortcut is for ${myObject[key]}`);
+  //console.log(`${key} shortcut is for ${myObject[key]}`);
 }
 
-const programming = ["js", "rb", "py", "java", "cpp"]
+const programming = ["js", "rb", "py", "java", "cpp"];
 
 for (const key in programming) {
-    //console.log(programming[key]);
+  //console.log(programming[key]);
 }
 
 // const map = new Map()
