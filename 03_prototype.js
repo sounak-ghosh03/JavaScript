@@ -27,7 +27,7 @@ Array.prototype.heyHitesh = function () {
 // myHeros.heyHitesh()
 // heroPower.heyHitesh()
 
-// inheritance
+// inheritance old practice 
 
 const User = {
   name: "chai",
@@ -50,7 +50,7 @@ const TASupport = {
 
 Teacher.__proto__ = User;
 
-// modern syntax
+// modern syntax of inheritance
 Object.setPrototypeOf(TeachingSupport, Teacher);
 
 let anotherUsername = "ChaiAurCode     ";
